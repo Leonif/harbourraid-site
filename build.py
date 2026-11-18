@@ -51,7 +51,7 @@ T = {
         "nav": [("index", "Гра"), ("support", "Підтримка"), ("privacy", "Приватність")],
         "index_title": "Harbour Raid - аркадний шутер для Mac",
         "index": """
-<section class="hero"><img src="../shot-uk.jpg" width="1280" height="800" alt="Harbour Raid: літак над авіаносцем, зліва панель з рахунком, міцністю, життями і бомбами"></section>
+<section class="hero"><img src="../hero.jpg" width="1280" height="800" alt="Harbour Raid: камуфляжний літак атакує ворожу гавань - авіаносець, лінкор і катер у вогні біля тропічного берега"></section>
 <section><h2>Три рубежі, один літак</h2>
 <p>Harbour Raid - аркадний вертикальний шутер для Mac. Ви пілот одного літака проти цілої оборони: винищувачів у небі, танків і гармат на землі, кораблів у морі.</p>
 <ul><li>Пальмовий рубіж: гай, бази, залізниця і бронепоїзд.</li><li>Морський рубіж: конвой, авіаносець, острови-батареї і підводний човен.</li><li>Портовий рубіж: гирло річки, лінкори, форт на молу і гавань.</li></ul></section>
@@ -99,7 +99,7 @@ T = {
         "nav": [("index", "Game"), ("support", "Support"), ("privacy", "Privacy")],
         "index_title": "Harbour Raid - an arcade shooter for Mac",
         "index": """
-<section class="hero"><img src="../shot-en.jpg" width="1280" height="800" alt="Harbour Raid: a plane over an aircraft carrier, with the score, hull, lives and bombs panel on the left"></section>
+<section class="hero"><img src="../hero.jpg" width="1280" height="800" alt="Harbour Raid: a camouflaged plane attacks an enemy harbour - a carrier, a battleship and a burning patrol boat off a tropical coast"></section>
 <section><h2>Three fronts, one plane</h2>
 <p>Harbour Raid is an arcade vertical shooter for Mac. You fly one plane against a whole defence line: fighters in the air, tanks and guns on the ground, warships at sea.</p>
 <ul><li>Palm Front: a grove, bases, a railway and an armoured train.</li><li>Sea Front: a convoy, an aircraft carrier, island batteries and a submarine.</li><li>Harbour Front: a river mouth, battleships, a fort on the mole and the harbour.</li></ul></section>
