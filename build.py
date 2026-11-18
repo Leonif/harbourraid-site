@@ -56,7 +56,7 @@ T = {
 <p>Harbour Raid - аркадний вертикальний шутер для Mac. Ви пілот одного літака проти цілої оборони: винищувачів у небі, танків і гармат на землі, кораблів у морі.</p>
 <ul><li>Пальмовий рубіж: гай, бази, залізниця і бронепоїзд.</li><li>Морський рубіж: конвой, авіаносець, острови-батареї і підводний човен.</li><li>Портовий рубіж: гирло річки, лінкори, форт на молу і гавань.</li></ul></section>
 <section><h2>Без зайвого</h2>
-<p>Без реклами, без покупок усередині, без облікових записів. Гра не збирає даних і працює без інтернету. Інтерфейс українською та англійською.</p>
+<p>Перший рівень безкоштовний, повна гра - одна покупка назавжди. Без реклами, без підписок, без облікових записів. Гра не збирає даних і працює без інтернету. Інтерфейс українською та англійською.</p>
 <p class="muted">Незабаром у Mac App Store. Потрібна macOS 13 або новіша.</p></section>""",
         "support_title": "Підтримка - Harbour Raid",
         "support": """
@@ -76,6 +76,7 @@ T = {
 <p><strong>Як змінити мову?</strong> Меню - Налаштування - Мова. Доступні українська та англійська.</p>
 <p><strong>Курсор зник і не рухається.</strong> Під час польоту гра захоплює мишу. Натисніть P або Esc - пауза поверне курсор.</p>
 <p><strong>Де зберігаються рекорди?</strong> Лише на вашому Mac, у даних гри. Якщо видалити гру разом з її даними, рекорди зникнуть.</p>
+<p><strong>Що дає покупка «Повна гра»?</strong> Рівні 2 і 3 та всі майбутні рівні, назавжди. Якщо перевстановили гру, у меню «Повна гра» натисніть «Відновити покупку».</p>
 <p><strong>На чому працює?</strong> macOS 13 або новіша, Mac з Apple silicon або Intel.</p></section>""",
         "privacy_title": "Політика приватності - Harbour Raid",
         "privacy": """
@@ -83,7 +84,7 @@ T = {
 <section><h2>Що зберігається на вашому Mac</h2>
 <ul><li>Рекорди і відкриті рівні.</li><li>Налаштування: мова, звук, музика.</li><li>Технічна статистика вильотів (влучання, рахунок, тривалість) - файл у даних гри, який використовується лише для налагодження балансу і нікуди не надсилається.</li></ul>
 <p>Ці дані лежать тільки в контейнері гри на вашому пристрої. Щоб їх видалити, видаліть гру разом з її даними.</p></section>
-<section><h2>Покупка</h2><p>Купівлю і завантаження гри обробляє Apple через Mac App Store за власною політикою приватності. Розробник не отримує ваших платіжних чи особистих даних.</p></section>
+<section><h2>Покупка</h2><p>Завантаження гри і покупку повної версії обробляє Apple через Mac App Store за власною політикою приватності. Розробник не отримує ваших платіжних чи особистих даних.</p></section>
 <section><h2>Діти</h2><p>Гра не збирає даних ні в кого, зокрема й у дітей.</p></section>
 <section><h2>Зміни і зв'язок</h2><p>Якщо політика зміниться, нова редакція з'явиться на цій сторінці з новою датою. Питання - на <a href="mailto:{email}">{email}</a>.</p></section>""",
         "updated": "Оновлено", "footer": "Harbour Raid. Незалежна гра.",
@@ -99,7 +100,7 @@ T = {
 <p>Harbour Raid is an arcade vertical shooter for Mac. You fly one plane against a whole defence line: fighters in the air, tanks and guns on the ground, warships at sea.</p>
 <ul><li>Palm Front: a grove, bases, a railway and an armoured train.</li><li>Sea Front: a convoy, an aircraft carrier, island batteries and a submarine.</li><li>Harbour Front: a river mouth, battleships, a fort on the mole and the harbour.</li></ul></section>
 <section><h2>Nothing extra</h2>
-<p>No ads, no in-app purchases, no accounts. The game collects no data and works offline. Interface in Ukrainian and English.</p>
+<p>The first level is free; the full game is one purchase for good. No ads, no subscriptions, no accounts. The game collects no data and works offline. Interface in Ukrainian and English.</p>
 <p class="muted">Coming soon to the Mac App Store. Requires macOS 13 or later.</p></section>""",
         "support_title": "Support - Harbour Raid",
         "support": """
@@ -119,6 +120,7 @@ T = {
 <p><strong>How do I change the language?</strong> Menu - Settings - Language. Ukrainian and English are available.</p>
 <p><strong>The cursor is gone and will not move.</strong> The game captures the mouse in flight. Press P or Esc: the pause gives the cursor back.</p>
 <p><strong>Where are my best scores kept?</strong> Only on your Mac, in the game's data. Deleting the game with its data removes them.</p>
+<p><strong>What does the Full game purchase give?</strong> Levels 2 and 3 and every future level, for good. After a reinstall, open Full game in the menu and press Restore purchase.</p>
 <p><strong>What does it run on?</strong> macOS 13 or later, a Mac with Apple silicon or Intel.</p></section>""",
         "privacy_title": "Privacy Policy - Harbour Raid",
         "privacy": """
@@ -126,7 +128,7 @@ T = {
 <section><h2>What is kept on your Mac</h2>
 <ul><li>Best scores and unlocked levels.</li><li>Settings: language, sound, music.</li><li>Technical sortie statistics (hits, score, duration) - a file in the game's data used only for balance tuning; it is never sent anywhere.</li></ul>
 <p>This data stays in the game's container on your device. To remove it, delete the game together with its data.</p></section>
-<section><h2>Purchase</h2><p>Buying and downloading the game is handled by Apple through the Mac App Store under Apple's own privacy policy. The developer receives none of your payment or personal data.</p></section>
+<section><h2>Purchase</h2><p>Downloading the game and buying the full version are handled by Apple through the Mac App Store under Apple's own privacy policy. The developer receives none of your payment or personal data.</p></section>
 <section><h2>Children</h2><p>The game collects no data from anyone, children included.</p></section>
 <section><h2>Changes and contact</h2><p>If this policy changes, the new version will appear on this page with a new date. Questions: <a href="mailto:{email}">{email}</a>.</p></section>""",
         "updated": "Updated", "footer": "Harbour Raid. An independent game.",
