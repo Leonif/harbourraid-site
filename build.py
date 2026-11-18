@@ -56,7 +56,7 @@ T = {
 <p>Harbour Raid - аркадний вертикальний шутер для Mac. Ви пілот одного літака проти цілої оборони: винищувачів у небі, танків і гармат на землі, кораблів у морі.</p>
 <ul><li>Пальмовий рубіж: гай, бази, залізниця і бронепоїзд.</li><li>Морський рубіж: конвой, авіаносець, острови-батареї і підводний човен.</li><li>Портовий рубіж: гирло річки, лінкори, форт на молу і гавань.</li></ul></section>
 <section><h2>Без зайвого</h2>
-<p>Перший рівень безкоштовний, повна гра - одна покупка назавжди. Без реклами, без підписок, без облікових записів. Гра не збирає даних і працює без інтернету. Інтерфейс українською та англійською.</p>
+<p>Перший рівень безкоштовний, повна гра - одна покупка назавжди. Без реклами, без підписок, без облікових записів. Гра працює без інтернету й анонімно рахує, як проходять рівні, без особистих даних. Інтерфейс українською та англійською.</p>
 <p class="muted">Незабаром у Mac App Store. Потрібна macOS 13 або новіша.</p></section>""",
         "support_title": "Підтримка - Harbour Raid",
         "support": """
@@ -80,12 +80,16 @@ T = {
 <p><strong>На чому працює?</strong> macOS 13 або новіша, Mac з Apple silicon або Intel.</p></section>""",
         "privacy_title": "Політика приватності - Harbour Raid",
         "privacy": """
-<section><h2>Коротко</h2><p>Harbour Raid не збирає, не зберігає на серверах і нікому не передає жодних даних про вас. У грі немає облікових записів, реклами, аналітики й сторонніх бібліотек, і вона не звертається до мережі.</p></section>
+<section><h2>Коротко</h2><p>Harbour Raid не збирає особистих даних. У грі немає облікових записів, реклами і трекінгу. Єдине, що гра надсилає, - анонімна статистика про те, як проходять рівні.</p></section>
+<section><h2>Анонімна статистика</h2>
+<p>Щоб розуміти, де гра заскладна чи нудна, вона надсилає сервісу <a href="https://telemetrydeck.com/privacy/">TelemetryDeck</a> такі події: запуск гри, початок рівня, перемога, поразка, вихід із рівня, втрата літака, відкриття екрана «Повна гра».</p>
+<ul><li>Разом із подією йдуть: версія гри, версія macOS, мова інтерфейсу, номер рівня й ділянки, номер спроби, рахунок, кількість життів і пройдена частина рівня.</li><li>Ідентифікатор - випадковий рядок, створений на вашому Mac. Перед відправкою він хешується, а сервіс хешує його ще раз. Він не пов'язаний з Apple ID, іменем чи поштою.</li><li>Ім'я, пошта, Apple ID, вміст вашого Mac чи дані про оплату не надсилаються.</li></ul>
+<p>Ці дані не використовуються для реклами і не передаються нікому, крім TelemetryDeck як обробника. Без інтернету гра працює так само, просто нічого не надсилає.</p></section>
 <section><h2>Що зберігається на вашому Mac</h2>
-<ul><li>Рекорди і відкриті рівні.</li><li>Налаштування: мова, звук, музика.</li><li>Технічна статистика вильотів (влучання, рахунок, тривалість) - файл у даних гри, який використовується лише для налагодження балансу і нікуди не надсилається.</li></ul>
+<ul><li>Рекорди і відкриті рівні.</li><li>Налаштування: мова, звук, музика.</li><li>Випадковий ідентифікатор установлення для анонімної статистики.</li><li>Технічна статистика вильотів (влучання, рахунок, тривалість) - файл у даних гри, який використовується лише для налагодження балансу і нікуди не надсилається.</li></ul>
 <p>Ці дані лежать тільки в контейнері гри на вашому пристрої. Щоб їх видалити, видаліть гру разом з її даними.</p></section>
 <section><h2>Покупка</h2><p>Завантаження гри і покупку повної версії обробляє Apple через Mac App Store за власною політикою приватності. Розробник не отримує ваших платіжних чи особистих даних.</p></section>
-<section><h2>Діти</h2><p>Гра не збирає даних ні в кого, зокрема й у дітей.</p></section>
+<section><h2>Діти</h2><p>Гра не збирає особистих даних ні в кого, зокрема й у дітей.</p></section>
 <section><h2>Зміни і зв'язок</h2><p>Якщо політика зміниться, нова редакція з'явиться на цій сторінці з новою датою. Питання - на <a href="mailto:{email}">{email}</a>.</p></section>""",
         "updated": "Оновлено", "footer": "Harbour Raid. Незалежна гра.",
     },
@@ -100,7 +104,7 @@ T = {
 <p>Harbour Raid is an arcade vertical shooter for Mac. You fly one plane against a whole defence line: fighters in the air, tanks and guns on the ground, warships at sea.</p>
 <ul><li>Palm Front: a grove, bases, a railway and an armoured train.</li><li>Sea Front: a convoy, an aircraft carrier, island batteries and a submarine.</li><li>Harbour Front: a river mouth, battleships, a fort on the mole and the harbour.</li></ul></section>
 <section><h2>Nothing extra</h2>
-<p>The first level is free; the full game is one purchase for good. No ads, no subscriptions, no accounts. The game collects no data and works offline. Interface in Ukrainian and English.</p>
+<p>The first level is free; the full game is one purchase for good. No ads, no subscriptions, no accounts. The game works offline and anonymously counts how levels are played, with no personal data. Interface in Ukrainian and English.</p>
 <p class="muted">Coming soon to the Mac App Store. Requires macOS 13 or later.</p></section>""",
         "support_title": "Support - Harbour Raid",
         "support": """
@@ -124,12 +128,16 @@ T = {
 <p><strong>What does it run on?</strong> macOS 13 or later, a Mac with Apple silicon or Intel.</p></section>""",
         "privacy_title": "Privacy Policy - Harbour Raid",
         "privacy": """
-<section><h2>In short</h2><p>Harbour Raid does not collect, store on servers or share any data about you. The game has no accounts, ads, analytics or third-party libraries, and it makes no network requests.</p></section>
+<section><h2>In short</h2><p>Harbour Raid collects no personal data. The game has no accounts, ads or tracking. The only thing it sends is anonymous statistics about how levels are played.</p></section>
+<section><h2>Anonymous statistics</h2>
+<p>To see where the game is too hard or dull, it sends these events to <a href="https://telemetrydeck.com/privacy/">TelemetryDeck</a>: game launched, level started, level won, game over, level left, plane lost, the Full game screen opened.</p>
+<ul><li>Each event carries the game version, the macOS version, the interface language, the level and its section, the attempt number, the score, the lives left and how far into the level you were.</li><li>The identifier is a random string created on your Mac. It is hashed before it is sent, and the service hashes it again. It is not tied to your Apple ID, name or email.</li><li>Your name, email, Apple ID, the contents of your Mac and payment details are never sent.</li></ul>
+<p>This data is not used for advertising and is shared with no one except TelemetryDeck as the processor. Offline, the game works the same and simply sends nothing.</p></section>
 <section><h2>What is kept on your Mac</h2>
-<ul><li>Best scores and unlocked levels.</li><li>Settings: language, sound, music.</li><li>Technical sortie statistics (hits, score, duration) - a file in the game's data used only for balance tuning; it is never sent anywhere.</li></ul>
+<ul><li>Best scores and unlocked levels.</li><li>Settings: language, sound, music.</li><li>A random installation identifier for the anonymous statistics.</li><li>Technical sortie statistics (hits, score, duration) - a file in the game's data used only for balance tuning; it is never sent anywhere.</li></ul>
 <p>This data stays in the game's container on your device. To remove it, delete the game together with its data.</p></section>
 <section><h2>Purchase</h2><p>Downloading the game and buying the full version are handled by Apple through the Mac App Store under Apple's own privacy policy. The developer receives none of your payment or personal data.</p></section>
-<section><h2>Children</h2><p>The game collects no data from anyone, children included.</p></section>
+<section><h2>Children</h2><p>The game collects no personal data from anyone, children included.</p></section>
 <section><h2>Changes and contact</h2><p>If this policy changes, the new version will appear on this page with a new date. Questions: <a href="mailto:{email}">{email}</a>.</p></section>""",
         "updated": "Updated", "footer": "Harbour Raid. An independent game.",
     },
